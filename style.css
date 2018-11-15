@@ -10,14 +10,17 @@
 		position: static;
 		float: none;
 		text-align: left;
-		display: block;
 	}
 	
 	li a
 	{
 		float: none;
 		text-align: left;
-		display: block;
+	}
+	
+	intro
+	{
+		padding-bottom: 175px;
 	}
 }
 
