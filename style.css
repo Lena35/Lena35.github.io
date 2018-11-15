@@ -2,6 +2,7 @@ body
 {
 	font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
 	text-align: center;
+	background-color: #e6ffff;
 }
 
 li 
@@ -30,14 +31,9 @@ li a
 	padding-bottom: 15px;
 }
 
-#about
-{
-	background-color: #e6ffff;
-}
-
 .headers
 {
-	padding-top: 285px;
+	padding-top: 290px;
 	padding-bottom: 325px;
 }
 
