@@ -1,29 +1,3 @@
-@media only screen and (max-width: 720px)
-{
-	body
-	{
-		line-height: 2;
-	}
-	
-	.header
-	{
-		position: static;
-		float: none;
-		text-align: left;
-	}
-	
-	li a
-	{
-		float: none;
-		text-align: left;
-	}
-	
-	.intro
-	{
-		padding-bottom: 175px;
-	}
-}
-
 body
 {
 	font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
@@ -87,4 +61,33 @@ li a
 	width: 75%;
 	height: 50%;
 	margin: 15px;
+}
+
+@media screen and (max-width: 720px)
+{
+	body
+	{
+		line-height: 2;
+	}
+	
+	.header
+	{
+		position: static;
+		display: block;
+	}
+	
+	li
+	{
+		float: none;
+	}
+	
+	li a
+	{
+		text-align: left;
+	}
+	
+	.intro
+	{
+		padding-bottom: 175px;
+	}
 }
