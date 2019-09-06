@@ -2,12 +2,10 @@ body
 {
 	font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
 	text-align: center;
-	background-color: #e6ffff;
-	margin: 0;
-	padding: 0;
+	/* background-color: #e6ffff; */
 }
 
-li 
+/* li 
 {
 	float: left;
 	padding-left: 15px;
@@ -42,7 +40,7 @@ li a
 #work
 {
 	padding-top: 30px;
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 	background-color: white;
 	margin: auto;
 	width: 75%;
@@ -93,4 +91,4 @@ li a
 		padding-top: 130px;
 		padding-bottom: 175px;
 	}
-}
+} */
