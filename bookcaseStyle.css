@@ -1141,3 +1141,57 @@ input[type=radio]:nth-child(11):checked ~ .surface label:nth-child(16) .block-in
     transform: rotateX(-90deg) translateZ(16px) rotateY(0);
   }
 }
+
+.fontaw {
+	font-size: 20px;
+	color: black;
+	margin-left: 15px;
+}
+
+@media only screen and (max-width: 226px) {
+	.b6 {
+		transform: translate3d(50px, -208px, 224px) rotateY(-90deg);
+	}
+
+	.b8 {
+		transform: translate3d(40px, -192px, 191px) rotateY(-90deg);
+	}
+
+	.b9 {
+		transform: translate3d(35px, -192px, 158px) rotateY(-90deg);
+	}
+
+	.b10 {
+		transform: translate3d(55px, -208px, 125px) rotateY(-90deg);
+	}
+
+	.b11 {
+		transform: translate3d(20px, -208px, 92px) rotateY(-90deg);
+	}
+
+	.b12 {
+		transform: translate3d(43px, -192px, 58px) rotateY(-90deg);
+	}
+
+	.b13 {
+		transform: translate3d(30px, -208px, 24px) rotateY(-90deg);
+	}
+	
+	.b14 {
+		transform: translate3d(333px, -192px, 243px) rotateY(10deg);
+	}
+
+	@keyframes viewBook {
+		from {
+			transform: rotateX(-90deg) translateZ(64px) rotateY(0);
+		}
+
+		50% {
+			transform: rotateX(-90deg) translateZ(240px) rotateY(0);
+		}
+
+		to {
+			transform: rotateX(-90deg) translateZ(240px) rotateY(-90deg) rotateZ(-10deg) translateZ(-80px);
+		}
+	}
+}
