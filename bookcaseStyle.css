@@ -435,7 +435,7 @@ input[type=reset]:active {
   background-image: repeating-linear-gradient(90deg, transparent, transparent 21%, #aaa 21%, #aaa 25%, transparent 25%, transparent 46%, #aaa 46%, #aaa 50%, transparent 50%);
   background-size: 16px 16px;
 }
-.b7 {
+/*.b7 {
   display: block;
   transform: translate3d(48px, -208px, 256px);
 }
@@ -488,7 +488,7 @@ input[type=reset]:active {
   background-color: #fff;
   background-image: repeating-linear-gradient(90deg, transparent, transparent 21%, #aaa 21%, #aaa 25%, transparent 25%, transparent 46%, #aaa 46%, #aaa 50%, transparent 50%);
   background-size: 16px 16px;
-}
+}*/
 .b8 {
   display: block;
   transform: translate3d(80px, -192px, 272px);
@@ -867,7 +867,7 @@ input[type=reset]:active {
   background-image: repeating-linear-gradient(90deg, transparent, transparent 21%, #aaa 21%, #aaa 25%, transparent 25%, transparent 46%, #aaa 46%, #aaa 50%, transparent 50%);
   background-size: 16px 16px;
 }
-.b15 {
+/*.b15 {
   display: block;
   transform: translate3d(304px, -192px, 256px);
 }
@@ -974,7 +974,7 @@ input[type=reset]:active {
   background-color: #fff;
   background-image: repeating-linear-gradient(90deg, transparent, transparent 21%, #aaa 21%, #aaa 25%, transparent 25%, transparent 46%, #aaa 46%, #aaa 50%, transparent 50%);
   background-size: 16px 16px;
-}
+}*/
 label:nth-child(n+6):nth-child(-n+17):hover .block-inner {
   /* Book Viewing */
   transform: rotateX(-90deg) translateZ(64px);
